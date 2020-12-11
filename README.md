@@ -1,4 +1,6 @@
 # solar_web_browser
+Solar
+
 Browser with basic functionality made using PyQt5 lib
 
 Uses QWebEngine as a browsing tool
