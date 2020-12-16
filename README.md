@@ -1,4 +1,4 @@
-# solar_web_browser
+# Solar Web Browser
 Solar
 
 Browser with basic functionality made using PyQt5 lib
