@@ -290,7 +290,7 @@ class MainWindow(QMainWindow):
 
         self.tabs.currentWidget().setUrl(QUrl(go_to_url))
         
-    #Checks if HTTP connection is secure or not(so lame xD i know)
+    #Checks if HTTP connection is secure or not(if is HTTPS)
     def update_urlbar(self, n, browser=None):
         
         if browser != self.tabs.currentWidget():
