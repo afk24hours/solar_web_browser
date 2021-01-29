@@ -1,5 +1,4 @@
-#Thanks to https://icons8.com/
-#Used their free icons for this small project
+#Icons from https://icons8.com/
 #Написано с помощью библиотеки PyQt5 и так же небольшой функционал от requests и bs4 для парсинга HTML кода
 #Если нажали увидеть код страницы то придётся ждать пока полностью завершится процесс парсинга
 
